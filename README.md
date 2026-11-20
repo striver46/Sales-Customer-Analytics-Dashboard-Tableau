@@ -13,7 +13,7 @@
 ![KPIs](https://img.shields.io/badge/KPI_Tracking-0e8a4a?style=for-the-badge)
 ![Orders](https://img.shields.io/badge/1,687_Orders-e5174a?style=for-the-badge)
 
-**👤 Author: Aman Nakhate** &nbsp;|&nbsp; Aspiring Data Analyst
+**👤 Author: Aman Nakhate** &nbsp;|&nbsp; Data Analyst
 
 </div>
 
@@ -23,15 +23,11 @@
 
 ### 📊 Sales Dashboard
 
-<p align="center">
-  <img src="assets/sales_dashboard.png" alt="Sales Dashboard" width="100%">
-</p>
+<img width="2458" height="1631" alt="sales_proj_sales_dashboard" src="https://github.com/user-attachments/assets/853109a7-156c-41fd-bb85-8ee5b0bdddde" />
 
 ### 👥 Customer Dashboard
 
-<p align="center">
-  <img src="assets/customer_dashboard.png" alt="Customer Dashboard" width="100%">
-</p>
+<img width="2458" height="1631" alt="sales_proj_customer_dashboard" src="https://github.com/user-attachments/assets/4ff24f1f-1768-44d9-8f63-fc66eec1e353" />
 
 ---
 
@@ -51,9 +47,8 @@ An **interactive two-page Tableau dashboard** that analyzes **$733K in sales, $9
 
 ## 📈 Key Metrics
 
-<p align="center">
-  <img src="assets/kpi_banner.png" alt="Key Metrics" width="100%">
-</p>
+<img width="1657" height="538" alt="sales_proj_kpi_banner" src="https://github.com/user-attachments/assets/c93956fd-03e0-4029-b4ad-eae9a9f404ad" />
+
 
 | 📌 Metric | 🔢 Value |
 |:--|:--:|
@@ -70,9 +65,8 @@ An **interactive two-page Tableau dashboard** that analyzes **$733K in sales, $9
 
 ## 📊 Growth Analysis
 
-<p align="center">
-  <img src="assets/growth.png" alt="Year-over-Year Growth" width="70%">
-</p>
+<img width="1350" height="690" alt="sales_proj_growth" src="https://github.com/user-attachments/assets/660beb1e-beb1-49f7-9cbd-eff01d1dd450" />
+
 
 - 📈 **Sales growth: 20.4%** and **profit growth: 12.5%**
 - 🧍 **Customer growth: 8.6%**
@@ -87,48 +81,30 @@ An **interactive two-page Tableau dashboard** that analyzes **$733K in sales, $9
 
 **KPI cards with year-over-year comparison.** Each card shows the current year (dark line) against the previous year (grey line). Green dots mark the highest month and red dots the lowest.
 
-<p align="center">
-  <img src="assets/sales_kpis.png" alt="Sales KPI Cards" width="100%">
-</p>
+<img width="2359" height="550" alt="sales_proj_sales_kpis" src="https://github.com/user-attachments/assets/2bb657b5-b03a-47ca-b2b5-f7073e9b35f1" />
 
 **Sales & Profit by Subcategory.** Compares sales against the previous year and flags loss-making subcategories (shown in red), so weak products can be spotted quickly.
 
-<p align="center">
-  <img src="assets/sales_subcategory.png" alt="Sales and Profit by Subcategory" width="75%">
-</p>
+<img width="1161" height="816" alt="sales_proj_sales_subcategory" src="https://github.com/user-attachments/assets/eeed24e9-886f-4469-8606-9d4fbc707dab" />
 
 **Weekly Sales & Profit Trends.** Weekly performance against the average line. Green means above average and red means below, which makes peak and weak weeks easy to see.
 
-<p align="center">
-  <img src="assets/sales_trends.png" alt="Sales and Profit Trends" width="75%">
-</p>
+<img width="1160" height="816" alt="sales_proj_sales_trends" src="https://github.com/user-attachments/assets/38cd56cb-25b8-459f-84b8-1caf43059486" />
 
 ### 2️⃣ Customer Dashboard
 
 **Customer KPI cards.** Total customers, sales per customer and total orders, each compared with the previous year.
 
-<p align="center">
-  <img src="assets/customer_kpis.png" alt="Customer KPI Cards" width="100%">
-</p>
+<img width="2359" height="550" alt="sales_proj_customer_kpis" src="https://github.com/user-attachments/assets/cc4f3e6b-f868-4f64-83cd-b5f10d9a37c8" />
+
 
 **Customer Distribution by Number of Orders.** Shows how many customers placed 1, 2, 3 or more orders.
 
-<p align="center">
-  <img src="assets/customer_distribution.png" alt="Customer Distribution" width="75%">
-</p>
+<img width="1161" height="816" alt="sales_proj_customer_distribution" src="https://github.com/user-attachments/assets/fb1712b5-f05c-4af0-abf7-2ff0374e95db" />
 
 **Top 10 Customers by Profit.** Ranked table with last order date, profit, sales and order count.
 
-<p align="center">
-  <img src="assets/customer_top10.png" alt="Top 10 Customers" width="75%">
-</p>
-
-### 👥 Customer Behavior
-
-<p align="center">
-  <img src="assets/customers.png" alt="Customer Behavior" width="90%">
-</p>
-
+<img width="1160" height="816" alt="sales_proj_customer_top10" src="https://github.com/user-attachments/assets/83b47403-5adf-4389-bd6f-ce7547aee7eb" />
 - 🔁 **71.14%** of customers are repeat customers, which shows strong loyalty
 - 🏆 The **top 10 customers contribute 32.39%** of total profit, so retaining them is a priority
 
@@ -136,9 +112,7 @@ An **interactive two-page Tableau dashboard** that analyzes **$733K in sales, $9
 
 ## ⚙️ Workflow
 
-<p align="center">
-  <img src="assets/workflow.png" alt="Workflow" width="100%">
-</p>
+<img width="1657" height="330" alt="sales_proj_workflow" src="https://github.com/user-attachments/assets/da272c94-8b97-4448-8cc0-42f652f99c54" />
 
 ---
 
